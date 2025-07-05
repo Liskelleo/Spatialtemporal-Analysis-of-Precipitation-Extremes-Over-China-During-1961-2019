@@ -1,4 +1,4 @@
-## Spatialtemporal Analysis of Precipitation Extremes Over China During 1961-2019
+## Spatial-temporal Analysis of Precipitation Extremes Over China During 1961-2019
 
 #### Highlights
 
